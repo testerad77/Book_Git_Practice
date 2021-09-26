@@ -2,10 +2,10 @@ Modified version
 
 This is page 2 of chapter 1
 
-our second file
+This is new page for this page
 
 
-now we have Git enabled
+!!! we have Git enabled
 
 At this moment we have to modify this page and add more information. And then commit and push it. Let's see do it!
 
